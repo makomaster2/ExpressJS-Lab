@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-lab",
+  "version": "1.0.0",
+  "description": "This is a lab using ExpressJS to create a server!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/makomaster2/ExpressJS-Lab.git"
+  },
+  "author": "Austin Gage Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makomaster2/ExpressJS-Lab/issues"
+  },
+  "homepage": "https://github.com/makomaster2/ExpressJS-Lab#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
